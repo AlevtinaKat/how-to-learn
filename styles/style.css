@@ -60,7 +60,7 @@
 }
 
 .header__main-illustration {
-  background-image: url("../images/header-image.png"); 
+  background-image: url("../images/header-image.png");
   alt: "Главная картинка мальчик грустит";
   background-size: cover;
   width: 765px;
@@ -91,7 +91,7 @@
   width: 80%;
   display: flex;
   margin-top: 100px;
-  margin-bottom: 100px; 
+  margin-bottom: 100px;
   justify-content: space-between;
 }
 
@@ -218,7 +218,6 @@
   position: absolute;
   top: 50%;
   color: #2f80ed;
-  position: absolute;
 }
 
 .feinman__main-illustration {
@@ -231,7 +230,6 @@
   height: 637px;
   background-size: cover;
   z-index: 5;
-  position: absolute;
 }
 
 .kaufman {
@@ -345,7 +343,7 @@
   font-size: 18px;
   font-weight: normal;
   margin-top: 20px;
-  margin-bottom: 16px;  
+  margin-bottom: 16px;
   list-style: none;
   padding: 0;
   margin-left: 0;
@@ -365,5 +363,5 @@
 
 .footer__columns-link {
   text-decoration: none;
-  color: #f2f2f2
+  color: #f2f2f2;
 }
