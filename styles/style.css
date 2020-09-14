@@ -89,7 +89,6 @@
   width: 80%;
   display: flex;
   margin-top: 100px;
-  margin-bottom: 100px;
   justify-content: space-between;
 }
 
@@ -253,6 +252,7 @@
 }
 
 .section-title_theme_dark {
+  margin-top: 90px;
   color: white;
   z-index: 30;
 }
