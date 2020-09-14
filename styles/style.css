@@ -23,8 +23,6 @@
 .logo {
   height: 32px;
   width: 183px;
-  top: 0px;
-  left: 0px;
 }
 
 .logo_place_header {
@@ -55,8 +53,6 @@
   font-weight: normal;
   align-items: flex-end;
   text-align: left;
-  padding: 0px;
-  margin: 0px;
 }
 
 .header__link {
