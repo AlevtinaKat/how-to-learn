@@ -1,0 +1,9 @@
+.footer__columns {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    display: flex;
+    padding: 0;
+    width: 90%;
+    justify-content: space-between;
+    position: relative;
+  }

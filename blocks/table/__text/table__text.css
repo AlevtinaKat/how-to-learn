@@ -1,0 +1,10 @@
+.table__text {
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    align-content: flex-start;
+    margin: 0px;
+    margin-top: 20px;
+    color: #000000;
+    padding: 0px;
+  }
